@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I am Yarob - يعرُب👋
+
+I am a Software Engineer With a strong background in building web and mobile apps. All technologies and frameworks I usually use and which I have a very good experince on them are shown in the above header and I will be adding whatever I learn in the future into the header 😄.
+
+#### Most of my technical related activities can be found in my twitter account: @Yarhmm, will be happy to see u there.
+https://twitter.com/YarHmm
+
 
 <!--
 **Yarob50/Yarob50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
