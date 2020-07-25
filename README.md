@@ -1,5 +1,7 @@
-### Hi I am Yarob - يعرُب👋
-
+### Hi I am Yarob - يعرُب :eyeglasses: + :computer:
+<div align="center">
+  <img src="https://github.com/Yarob50/Yarob50/blob/master/github-header-wide.gif" width="100%" />
+ </div>
 I am a Software Engineer With a strong background in building web and mobile apps. All technologies and frameworks I usually use and which I have a very good experince on them are shown in the above header and I will be adding whatever I learn in the future into the stack 😄.
 
 #### Most of my technical related activities can be found in my twitter account: @Yarhmm, will be happy to see u there.
