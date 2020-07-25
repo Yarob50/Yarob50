@@ -6,7 +6,7 @@
 I am a Software Engineer With a strong background in building web and mobile apps. All technologies and frameworks I usually use and which I have a very good experince on them are shown in the above header and I will be adding whatever I learn in the future into the stack 😄.
 
 # Where to find me..
-#### Most of my technical related activities can be found in my twitter account: @Yarhmm, will be happy to see u there.
+#### Most of my technology related activities can be found in my twitter account: @Yarhmm, will be happy to see u there.
 https://twitter.com/YarHmm
 
 
