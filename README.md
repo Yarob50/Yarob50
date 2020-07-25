@@ -1,4 +1,4 @@
-### Hi, I am Yarob :eyeglasses: يعرُب :computer:
+### Hi, I am Yarob :eyeglasses: :computer: أهلا أنا يعرُب
 <div align="center">
   <img src="https://github.com/Yarob50/Yarob50/blob/master/github-header-wide.gif" width="100%" />
  </div>
