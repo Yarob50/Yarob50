@@ -3,7 +3,7 @@
   <img src="https://github.com/Yarob50/Yarob50/blob/master/github-header-wide.gif" width="100%" />
  </div>
  <hr>
-Software Engineer :computer: who is trying to learn new things everyday. I have a good experince on all technologies shown in the above header and I will be adding whatever I learn in the future into the stack 😄.
+A Software Engineer :computer: who is trying to learn new things everyday. I have a good experince on all technologies shown in the above header and I will be adding whatever I learn in the future into the stack 😄.
 
 # :mag_right: Where to find me..
 #### Most of my technology related activities can be found in my :bird: twitter account: @Yarhmm, would be happy to see u there :relaxed:.
