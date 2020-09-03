@@ -1,6 +1,6 @@
 ### Hi, I am Yarob :eyeglasses: :computer: أهلا أنا يعرُب
 <div align="center">
-  <img src="https://github.com/Yarob50/Yarob50/blob/master/github-header-wide.gif" width="100%" />
+  <img src="https://github.com/Yarob50/Yarob50/blob/master/github-header.gif" width="100%" />
  </div>
  <hr>
 A Software Engineer :computer: trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the above header and I will be adding whatever I learn in the future into the stack 😄.
