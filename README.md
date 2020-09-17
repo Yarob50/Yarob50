@@ -9,6 +9,8 @@ A Software Engineer :computer: trying to learn new things everyday. Most of my t
 #### Most of my technology related activities can be found in my :bird: twitter account: @Yarhmm, would be happy to see u there :relaxed:.
 https://twitter.com/YarHmm
 
+#### I also write some articles on Medium..
+https://medium.com/@yarobalmostafa
 
 <!--
 **Yarob50/Yarob50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
