@@ -6,7 +6,7 @@
 A Software Engineer :computer: trying to learn new things everyday. Most of my tech experince is focused on all the technologies shown in the above header and I will be adding whatever I learn in the future into the stack 😄.
 
 # :mag_right: Where to find me..
-#### Most of my technology related activities can be found in my :bird: twitter account: @Yarhmm, would be happy to see u there :relaxed:.
+#### Most of my technology-related activities can be found in my :bird: twitter account: @Yarhmm, would be happy to see u there :relaxed:.
 https://twitter.com/YarHmm
 
 #### I also write some articles on Medium..
