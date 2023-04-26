@@ -7,10 +7,11 @@ A Software Engineer :computer: trying to learn new things everyday. Most of my t
 
 # :mag_right: Where to find me..
 #### 👨🏻‍🏫 I teach programming in my youtube channel (Tarmeez Academy - أكاديمية ترميز):
-https://www.youtube.com/@user-py5qp1ez4y
+[![youtube](https://img.shields.io/badge/-subscribe-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@user-py5qp1ez4y?view_as=subscriber)
 
 #### 🐦 Most of my tech-related activities can be found in my :bird: twitter account: @Yarhmm, would be happy to see u there :relaxed:.
-https://twitter.com/YarHmm
+[![Twitter: yarhmm](https://img.shields.io/twitter/follow/aladin002dz?style=social)](https://twitter.com/YarHmm)
+
 
 #### 📚 I also write some articles on Medium..
 https://medium.com/@yarobalmostafa
